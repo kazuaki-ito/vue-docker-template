@@ -41,3 +41,8 @@ docker-compose exec workspace vue create .
 docker-compose exec workspace yarn serve
 ```
 
+ブラウザで下記URLにアクセス
+```
+http://localhost:8080
+```
+
